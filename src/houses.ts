@@ -13,5 +13,5 @@ export interface House {
 export const houses: House[] = housesJson
 
 export function directionsUrl(house: House): string {
-  return `https://www.google.com/maps/dir/?api=1&destination=${house.lat},${house.lng}`
+  return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(house.address)}`
 }

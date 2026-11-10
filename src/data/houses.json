@@ -1,40 +1,82 @@
 [
   {
-    "id": "sample-1",
-    "name": "Sample House 1",
-    "address": "Replace with a street address",
-    "lat": 39.0997,
-    "lng": -94.5786,
-    "note": "Placeholder stop. Edit src/data/houses.json to add real houses."
+    "id": "705-spottswood-rd",
+    "name": "Christmas on Spottswood",
+    "address": "705 Spottswood Rd, Henrico, VA 23229",
+    "lat": 37.5876,
+    "lng": -77.5586,
+    "note": "About 52,000 lights. Listed Dec 1 to Jan 5, 5 pm to 11 pm."
   },
   {
-    "id": "sample-2",
-    "name": "Sample House 2",
-    "address": "Replace with a street address",
-    "lat": 39.0812,
-    "lng": -94.5962,
-    "note": "Placeholder stop."
+    "id": "8402-weldon-dr",
+    "name": "Cable Family Christmas Lights",
+    "address": "8402 Weldon Dr, Henrico, VA 23229",
+    "lat": 37.5956,
+    "lng": -77.5592,
+    "note": "About 40,000 lights, with music. Listed Nov 23 to Jan 1, 5 pm to 10:30 pm."
   },
   {
-    "id": "sample-3",
-    "name": "Sample House 3",
-    "address": "Replace with a street address",
-    "lat": 39.0621,
-    "lng": -94.5848
+    "id": "8311-vernelle-ln",
+    "name": "Vernelle Lane",
+    "address": "8311 Vernelle Ln, Richmond, VA 23229",
+    "lat": 37.608,
+    "lng": -77.5571,
+    "note": "About 60,000 lights. Listed Nov 28 to Jan 7, 5 pm to 11 pm."
   },
   {
-    "id": "sample-4",
-    "name": "Sample House 4",
-    "address": "Replace with a street address",
-    "lat": 39.0534,
-    "lng": -94.6083,
-    "note": "Placeholder stop."
+    "id": "9625-peppertree-dr",
+    "name": "Peppertree Drive",
+    "address": "9625 Peppertree Dr, Henrico, VA 23238",
+    "lat": 37.6162,
+    "lng": -77.5868,
+    "note": "About 84,000 lights. Listed Nov 28 to Dec 31, 5 pm to 10 pm."
   },
   {
-    "id": "sample-5",
-    "name": "Sample House 5",
-    "address": "Replace with a street address",
-    "lat": 39.0418,
-    "lng": -94.5891
+    "id": "9604-asbury-ct",
+    "name": "Phifers on Asbury Court",
+    "address": "9604 Asbury Ct, Richmond, VA 23229",
+    "lat": 37.6065,
+    "lng": -77.5871,
+    "note": "About 1.5 million lights. Listed Nov 23 to Dec 31, 5:30 pm to 11 pm."
+  },
+  {
+    "id": "9215-venetian-way",
+    "name": "The Thedieck's Christmas Display",
+    "address": "9215 Venetian Way, Richmond, VA 23229",
+    "lat": 37.5978,
+    "lng": -77.5822,
+    "note": "About 100,000 lights. Listed Nov 27 to Jan 1, 6 pm to 10:30 pm."
+  },
+  {
+    "id": "8821-providence-ridge-ct",
+    "name": "Wonderland",
+    "address": "8821 Providence Ridge Ct, Richmond, VA 23236",
+    "lat": 37.475,
+    "lng": -77.5646,
+    "note": "About 25,000 lights, with music. Listed Nov 29 to Dec 27, 5 pm to 10 pm."
+  },
+  {
+    "id": "4300-soundview-ln",
+    "name": "Soundview Lane",
+    "address": "4300 Soundview Ln, Chesterfield, VA 23832",
+    "lat": 37.4518,
+    "lng": -77.5376,
+    "note": "About 100,000 lights. Listed Nov 1 to Jan 8, 5 pm to 10 pm."
+  },
+  {
+    "id": "3106-quail-hunt-ct",
+    "name": "Quail Hunt Court",
+    "address": "3106 Quail Hunt Ct, Midlothian, VA 23112",
+    "lat": 37.4466,
+    "lng": -77.6529,
+    "note": "About 120,000 lights. Listed Dec 1 to Jan 1, 5 pm to 10 pm."
+  },
+  {
+    "id": "2216-millcrest-ter",
+    "name": "Pendergrass Christmas Spectacular",
+    "address": "2216 Millcrest Ter, Midlothian, VA 23112",
+    "lat": 37.4561,
+    "lng": -77.6749,
+    "note": "About 140,000 lights, with music. Listed Nov 29 to Jan 1, 5:30 pm to 10:30 pm."
   }
 ]
