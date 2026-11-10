@@ -41,11 +41,4 @@ Pushing to `main` deploys the changes.
    - Build script: **yes**, `npm ci && npm run build`
    - Deploy to the live channel on merge: **yes**, branch `main`
 
-3. Pass the Maps key to the build step in both files in `.github/workflows/`:
-
-   ```yaml
-   env:
-     VITE_GOOGLE_MAPS_API_KEY: ${{ secrets.VITE_GOOGLE_MAPS_API_KEY }}
-   ```
-
-4. Push to `main`. The site is published at `https://<project-id>.web.app`.
+3. Push to `main`. The site is published at `https://<project-id>.web.app`.
