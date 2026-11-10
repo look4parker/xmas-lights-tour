@@ -14,5 +14,5 @@ export const content = {
 
   // The ID is the part of the playlist link after /playlist/, without anything from ? onward.
   // Leave it empty to show a placeholder.
-  spotifyPlaylistId: '',
+  spotifyPlaylistId: '6F2tP8L4fR2CndsruNXwde',
 }
