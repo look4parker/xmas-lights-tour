@@ -1,0 +1,40 @@
+[
+  {
+    "id": "sample-1",
+    "name": "Sample House 1",
+    "address": "Replace with a street address",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "note": "Placeholder stop. Edit src/data/houses.json to add real houses."
+  },
+  {
+    "id": "sample-2",
+    "name": "Sample House 2",
+    "address": "Replace with a street address",
+    "lat": 39.0812,
+    "lng": -94.5962,
+    "note": "Placeholder stop."
+  },
+  {
+    "id": "sample-3",
+    "name": "Sample House 3",
+    "address": "Replace with a street address",
+    "lat": 39.0621,
+    "lng": -94.5848
+  },
+  {
+    "id": "sample-4",
+    "name": "Sample House 4",
+    "address": "Replace with a street address",
+    "lat": 39.0534,
+    "lng": -94.6083,
+    "note": "Placeholder stop."
+  },
+  {
+    "id": "sample-5",
+    "name": "Sample House 5",
+    "address": "Replace with a street address",
+    "lat": 39.0418,
+    "lng": -94.5891
+  }
+]
